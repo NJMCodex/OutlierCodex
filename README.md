@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nick!
-- 👀 I’m interested in mod development, currently focusing on Minecraft and am aiming to dabble with 5M modding as well.
+- 👀 I’m interested in mod and game development, currently focusing on Minecraft and am aiming to dabble with 5M modding as well.
 - 🌱 I’m currently learning Software Development and Web Design and Development.
 - 💞️ I’m looking to collaborate on larger projects in the game industry.
 - 📫 How to reach me mjdysanick@gmail.com
